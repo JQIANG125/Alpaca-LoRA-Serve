@@ -11,12 +11,12 @@ Cleaned data used for the training
 
 DEFAULT_EXAMPLES = [
     {
-        "title": "Tell me about Alpacas.",
+        "title": "Tell me about UOB.",
         "examples": [
-            ["1", "Tell me about alpacas in two sentences"],
-            ["2", "What other animals are living in the same area?"],
-            ["3", "Are they the same species?"],
-            ["4", "Write a Python program to return those species"],
+            ["1", "What is UOB?"],
+            ["2", "Explain more about UOB"],
+            ["3", "When is UOB founded"],
+            ["4", "Talk more about UOB"],
         ],
     },
     {
